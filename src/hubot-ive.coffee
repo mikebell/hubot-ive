@@ -15,12 +15,15 @@
 #   arbales
 
 ives = [
-  "http://www.blogcdn.com/www.engadget.com/media/2012/03/jony-ive-10-20-09.jpg",
-  "http://betanews.com/wp-content/uploads/media/60/6057.png",
-  "http://www.socialgazelle.com/wp-content/uploads/2012/05/jonathan-ive.jpg",
-  "http://www3.pcmag.com/media/images/238530-jonathan-ive.jpg",
-  "http://farm5.static.flickr.com/4089/5213864251_6a686844ca.jpg",
-  "http://www.ipadforums.net/wallpapers/data/500/jonathan_ive.JPG"
+  "http://i.imgur.com/8rcnGzq.jpg",
+  "http://i.imgur.com/GFJSvEH.png",
+  "http://i.imgur.com/BT8zluG.jpg",
+  "http://i.imgur.com/cXzlkwk.jpg",
+  "http://i.imgur.com/pzEsJtp.jpg",
+  "http://i.imgur.com/oGUAOlZ.jpg",
+  "http://i.imgur.com/Ve4ZV6l.jpg",
+  "http://i.imgur.com/Ym5cFRj.png",
+  "http://i.imgur.com/fVCCPAG.png"
 ]
 
 module.exports = (robot) ->
