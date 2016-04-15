@@ -10,19 +10,19 @@ See [`src/hubot-ive.coffee`](src/hubot-ive.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-ive --save`
+`npm install hubot-ive --save`
 
-Then add **hubot-hubot-ive** to your `external-scripts.json`:
+Then add **hubot-ive** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-hubot-ive"
+  "hubot-ive"
 ]
 ```
 
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> aluminium
+jonyive>> http://www.ipadforums.net/wallpapers/data/500/jonathan_ive.JPG
 ```
