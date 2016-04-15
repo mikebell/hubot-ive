@@ -20,8 +20,7 @@ ives = [
   "http://www.socialgazelle.com/wp-content/uploads/2012/05/jonathan-ive.jpg",
   "http://www3.pcmag.com/media/images/238530-jonathan-ive.jpg",
   "http://farm5.static.flickr.com/4089/5213864251_6a686844ca.jpg",
-  "http://www.ipadforums.net/wallpapers/data/500/jonathan_ive.JPG",
-  "http://www.wearesuperfamous.com/wp-content/jonny_ive11.jpg"
+  "http://www.ipadforums.net/wallpapers/data/500/jonathan_ive.JPG"
 ]
 
 module.exports = (robot) ->
